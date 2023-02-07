@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+  <ModInfo>
+    <Name value="QuestHelper" />
+    <Description value="Mod to assist in server side random goto generation" />
+    <Author value="Annihilator" />
+    <Version value="0.1.0" />
+    <Website value="" />
+  </ModInfo>
+</xml>
