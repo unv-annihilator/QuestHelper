@@ -2,9 +2,9 @@
 <xml>
   <ModInfo>
     <Name value="QuestHelper" />
-    <Description value="Mod to assist in server side random goto generation" />
+    <Description value="Mod to assist in server side random goto NPC generation. Prevents generation from 0,0" />
     <Author value="Annihilator" />
-    <Version value="0.1.0" />
-    <Website value="" />
+    <Version value="1.0.0" />
+    <Website value="https://github.com/unv-annihilator/QuestHelper" />
   </ModInfo>
 </xml>

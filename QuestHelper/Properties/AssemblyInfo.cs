@@ -4,12 +4,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("SampleProject")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("QuestHelper")]
+[assembly: AssemblyDescription("DF Quest Helper for Server Side Scout Quests")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("SampleProject")]
-[assembly: AssemblyCopyright("Copyright ©  2021")]
+[assembly: AssemblyProduct("QuestHelper")]
+[assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -19,8 +19,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("8067f976-e450-4127-8c5c-8c2d58f97de4")]
-
+[assembly: Guid("F2897EF3-D208-4C5E-9599-4DFB9FCC4E49")]
 // Version information for an assembly consists of the following four values:
 //
 //      Major Version
