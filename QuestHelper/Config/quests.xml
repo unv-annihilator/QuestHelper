@@ -1,0 +1,6 @@
+<!-- challenge_ -->
+<config>
+    <set xpath="/quests/quest[starts-with(@id, 'challenge_')]/objective[@type='RandomGotoNPC']/@type">
+        ObjectiveScoutQuest, QuestHelper
+    </set>
+</config>
